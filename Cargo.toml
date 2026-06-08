@@ -1,0 +1,9 @@
+[package]
+name = "first_plaformer"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+macroquad = "0.3.26"
+macroquad-tiled = "0.1.1"
+macroquad-platformer = "0.1.1"
